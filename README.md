@@ -78,11 +78,40 @@ SPiDER TM 기능에 대해 설명
 상관분석에서는 현재 발생되고 있는 경보에 대해 확인이 가능하며
 
 현재 진행중인 공격은 상단에 더 이상 진행되지 않는 공격 정보는 하단의 경보 종료에서 확인이 가능합니다.
+![image](https://github.com/user-attachments/assets/aa226878-7907-47f8-8551-35a2fc2e66ec)
+발생된 경보는 + 버튼을 눌러 일자별 정보 발생 트렌드에 대한 확인이 가능하고
 
+![image](https://github.com/user-attachments/assets/2af7349f-d2ca-4b9d-b33e-3f0f728f5ff1)
+우클릭을 통해 발생된 경보의 상세분석 또한 가능합니다.
 
+![image](https://github.com/user-attachments/assets/7e7a16d8-f419-41b7-bfeb-4cb9f8251196)
 
+![image](https://github.com/user-attachments/assets/5ad8028d-4bfb-4349-bcde-f2432ac2d005)
+경보 분석에서는 발생된 경보의 과거 조회가 가능하며
 
+검색어 추가를 통해 원하는 정보만 선택하여 검색이 가능합니다.
 
+상관분석 메뉴와 동일하게 상세분석 기능을 제공하며 발생된 경보는 사고접수를 통해 침해 사고 접수가 가능합니다.
 
+![image](https://github.com/user-attachments/assets/ffec5fbc-76cc-44a6-bdbf-44fb04e38ddd)
+로그 추적 분석 메뉴  ip 를 입력 후 분석 실행을 하면 사전 정의된 토폴로지 맵에서 해당 ip흐름에 대한 확인이 가능합니다.
+ip가 검색된 장비에서 상세 분석을 하게 되면 원본 데이터의 검색 또한 가능합니다.
+![image](https://github.com/user-attachments/assets/d613b87d-03a1-4c5d-8cb7-d4a85c67e21c)
+통합로그 검색 메뉴에서는 수 초 내 전체 원본 데이터 검색이 가능합니다.
 
+![image](https://github.com/user-attachments/assets/fa5c3eb9-3c43-4076-87de-f2889c146779)
+장비를 선택하여 검색하는 기능 또한 제공됩니다.
+
+![image](https://github.com/user-attachments/assets/10c8a324-4324-48ae-83c7-b2b1687ceee6)
+침해사고 대응 메뉴에서는 조건에 의해 차단된 ip 이력 조회가 가능합니다.
+
+![image](https://github.com/user-attachments/assets/d326ff4b-0cf6-49e2-af29-cb19cfa2756f)
+예방활동에서는 이글루 cti(computer telephony integration) 컴퓨터 전화 시스템의 통합) 와 연계하여 유해 ip와 유해 url 정보를
+확인할 수 있으며
+
+![image](https://github.com/user-attachments/assets/8308517b-8cb3-4689-83e9-5710c32b3e6d)
+집중관제와 정보공유 같은 편의 기능을 제공하며 
+
+![image](https://github.com/user-attachments/assets/2e93aee1-85bd-44a3-844e-265521017a46)
+수집된 원본 이벤트들은 통계화하여 대시보드로 시각화를 할 수 있습니다.
  
