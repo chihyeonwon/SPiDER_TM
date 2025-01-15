@@ -54,7 +54,25 @@ SPiDER TM 은 실시간 탐지 및 분석, 침해사고 처리를 기본적인 �
 SIEM의 유연성을 극대화하여 빅데이터에서 수집한 모든 로그는 통합대시보드로 표현이 가능하며 
 업무에 맞는 최적화된 대시보드를 구성하여 보안관제 업무, 보안시스템 운영, 단말보안 위협 관리 등 다양한 업무 영역에 적용될 수 있다.
 
+![image](https://github.com/user-attachments/assets/3e3fa387-45b4-4ba9-8ff9-990eb3b65c2a)
+SPiDER TM 기능에 대해 설명
 
+통합보안관리 솔루션은 실시간 관제와 사고대응을 할 수 있도록 보안관제, 침해사고 대응, 인공지능 분석, 집중관제, 예방활동 등의 기능을 제공
+하고 있습니다.
+
+![image](https://github.com/user-attachments/assets/5dabe76a-3e36-4e90-897f-a991ea82e545)
+수집된 이벤트에 대한 날짜별 통계를 대략적으로 확인할 수 있습니다.
+
+과거 날짜 선택시에도 선택된 날짜에 수집된 이벤트들을 확인할 수 있으며 며칠 치의 이벤트도 표현이 가능하다.
+
+![image](https://github.com/user-attachments/assets/e482b5e3-7efe-47a4-b647-579ef30cb251)
+로그 처리 현황에서는 원본 로그의 이벤트량 확인이 가능하며 최근 10분, 하루, 전일, 1주 전 등과 같이 장비별 이벤트 수집량 확인이 가능하다.
+
+![image](https://github.com/user-attachments/assets/41ba8bd6-3a41-4c86-83ec-717bf50e82fd)
+로그 소스 현황에서는 현재 장비에 대한 상태를 녹색, 노란색, 빨간색으로 표현하고 최근 5분간 이벤트량 표현이 가능하다.
+
+![image](https://github.com/user-attachments/assets/42f482ec-c2c7-4860-bc94-7ee415d1e327)
+통합관제 메뉴에서는 장비의 이벤트를 통계화하고 그래프와 표의 형태로 시각화하여 사용자에게 편의를 제공한다.
 
 
 
