@@ -74,6 +74,10 @@ SPiDER TM 기능에 대해 설명
 ![image](https://github.com/user-attachments/assets/42f482ec-c2c7-4860-bc94-7ee415d1e327)
 통합관제 메뉴에서는 장비의 이벤트를 통계화하고 그래프와 표의 형태로 시각화하여 사용자에게 편의를 제공한다.
 
+![image](https://github.com/user-attachments/assets/ad6b3d8b-23c9-4a12-9152-2147b7876bba)
+상관분석에서는 현재 발생되고 있는 경보에 대해 확인이 가능하며
+
+현재 진행중인 공격은 상단에 더 이상 진행되지 않는 공격 정보는 하단의 경보 종료에서 확인이 가능합니다.
 
 
 
